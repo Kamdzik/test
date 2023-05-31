@@ -7,7 +7,7 @@ class Main {
   hd
   fg
   h
-  cfg
-  hc
+  cfgerffsdfd
+  hc534tgtr
 
   ostanie
